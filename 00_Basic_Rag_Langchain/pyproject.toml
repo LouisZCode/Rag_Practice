@@ -1,0 +1,11 @@
+[project]
+name = "00-basic-rag-langchain"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=1.0.5",
+    "langchain-community>=0.4.1",
+    "pypdf>=6.2.0",
+]
